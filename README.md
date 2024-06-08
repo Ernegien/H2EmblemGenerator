@@ -1,2 +1,4 @@
-# H2EmblemGenerator
-Offline emblem generator for Halo 2
+# Halo 2 Emblem Generator Utility
+
+![Halo 2 Emblem Generator Utility - Application Preview Image](img/preview.png?raw=true)
+
